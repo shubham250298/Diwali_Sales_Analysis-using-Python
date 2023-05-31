@@ -16,7 +16,7 @@ Numpy, Pandas, Matplotlib, Seaborn
 
 ## Data Description
 The dataset used for this analysis contains Diwali sales data for a specific period. The data is provided in CSV format and includes the following columns:
-- User_ID: The Id of person
+- User_ID  :   The Id of person
 - Cust_name: Customer Name
 - Product_ID : Id of each product
 - Gender: Gender of each person
