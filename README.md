@@ -42,8 +42,10 @@ Now we check for null values in dataset and remove these null values.
 
 
 ##  EDA Steps
-- We create Bar chart between Gender and count and another one between Gender and Amount.
+- We create Bar chart with the help of seaborn library between Gender and count and another one between Gender and Amount 
 We can see that most of the buyers are females and even the purchasing power of men are lesser than female
+-Now we create barplot between Age group and count  and another between Total Amount and age group.
+From  graphs we can see that most of the buyers are of age group between 26-35 yrs female
 
 
 
