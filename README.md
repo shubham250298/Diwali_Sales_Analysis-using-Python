@@ -60,6 +60,8 @@ At end we find Top 10 most sold products.
 
 ##  Conclusion
 
+- Married women in the 26-35 age range from the states of Uttar Pradesh, Maharashtra, and Karnataka who work in the IT, healthcare, and aviation industries are more likely to purchase items from the food, clothing, and electronics categories.
+
 
 
 
