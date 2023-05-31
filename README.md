@@ -11,7 +11,8 @@ This project focuses on analyzing Diwali sales data to gain insights and perform
 - [Technologies Used](#technologies-used)
 
 ## Importing Dependencies
-
+we have imported following python Libraries
+Numpy, Pandas, Matplotlib, Seaborn
 
 
 
