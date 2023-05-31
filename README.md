@@ -36,6 +36,8 @@ The dataset used for this analysis contains Diwali sales data for a specific per
 
 In the dataset there are 11251 rows and 15 columns.
 
+## Data Cleaning
+
 
 
 
