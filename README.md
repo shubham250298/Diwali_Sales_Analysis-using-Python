@@ -6,6 +6,7 @@ This project focuses on analyzing Diwali sales data to gain insights and perform
 ## Table of Contents
 - [Importing Dependencies](#Importing-Dependencies)
 - [Data Description](#data-description)
+- [Data Cleaning](#data-cleaning)
 - [EDA Steps](#eda-steps)
 - [Results and Findings](#results-and-findings)
 - [Technologies Used](#technologies-used)
@@ -34,6 +35,8 @@ The dataset used for this analysis contains Diwali sales data for a specific per
 
 
 In the dataset there are 11251 rows and 15 columns.
+
+
 
 
 
