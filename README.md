@@ -48,7 +48,14 @@ We can see that most of the buyers are females and even the purchasing power of 
 From  these graphs we can see that most of the buyers are of age group between 26-35 yrs female
 - Now we create Barplot between State and orders  and another barplot between state and total amount.
 From these graphs we can see that most of the orders & total sales/amount are from Uttar Pradesh, Maharashtra and Karnataka respectively
-- 
+- Now we create Barplot between Marital_Status and count  and another barplot between Marital_Status and Amount.
+From these graphs we can see that most of the buyers are married (women) and they have high purchasing power.
+
+-Now we create Barplot between Occupation and count  and another barplot between Occupation and amount.
+From these graphs we can see that most of the buyers are working in IT, Healthcare and Aviation sector
+
+
+
 
 
 
