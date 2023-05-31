@@ -8,8 +8,8 @@ This project focuses on analyzing Diwali sales data to gain insights and perform
 - [Data Description](#data-description)
 - [Data Cleaning](#data-cleaning)
 - [EDA Steps](#eda-steps)
-- [Results and Findings](#results-and-findings)
-- [Technologies Used](#technologies-used)
+- [Conclusion](#Conclusion)
+
 
 ## Importing Dependencies
 we have imported following python Libraries
@@ -56,6 +56,7 @@ From these graphs we can see that most of the buyers are working in IT, Healthca
 - Now we create Barplot between Product_Category and count  and another barplot between Product_category and amount
 From above graphs we can see that most of the sold products are from Food, Clothing and Electronics category
 
+At end we find Top 10 most sold products.
 
 
 
