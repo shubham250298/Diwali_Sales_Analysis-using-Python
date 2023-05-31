@@ -53,7 +53,7 @@ From these graphs we can see that most of the buyers are married (women) and the
 
 - Now we create Barplot between Occupation and count  and another barplot between Occupation and amount.
 From these graphs we can see that most of the buyers are working in IT, Healthcare and Aviation sector
-
+- Now we create Barplot between Product_Category and count  and another barplot between Product_category and amount
 
 
 
