@@ -33,7 +33,7 @@ The dataset used for this analysis contains Diwali sales data for a specific per
 - 	unnamed1  :  Blank column 
 
 
-###In the dataset there are 11251 rows and 15 columns.
+In the dataset there are 11251 rows and 15 columns.
 
 
 
